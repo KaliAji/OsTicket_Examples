@@ -1,7 +1,8 @@
 
 <p align="center">
 
-<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/47c5aa5a-caba-4480-a78b-08b89d927db5" alt=vpn/>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f7f78545-ffad-4e2e-a25d-f993b0231025" alt="icon"/>
+
 
 </p>
 
@@ -27,89 +28,32 @@ This Repo continues where we left off on the OsTicket setup and gives us some ex
 - Remote desktop for Windows/ Mac counterpart 
 - Windows or Mac computer
 
-<h2>Examples</h2>
+<h2>Examples/Steps</h2>
 
 
 <p>
-<img width="960" height="862" alt="image" src="https://github.com/user-attachments/assets/eb26cac8-a165-498d-847b-9910a9cdd3a8" />
+<img width="1120" height="1027" alt="image" src="https://github.com/user-attachments/assets/fe66a017-dbd7-4a7f-a753-039ba440411e" />
+
+<img width="1118" height="1032" alt="image" src="https://github.com/user-attachments/assets/1132f498-018f-41a9-8013-65bd91d0685d" />
+
 
 </p>
 <p>
-On Azure, create a virtual machine.
-</p>
-<br />
+So we will begin by logging in on the admin page using this link: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a>.
 
-<p>
-<img width="957" height="887" alt="image" src="https://github.com/user-attachments/assets/95750358-4056-4a7c-a7ef-d90c89ad8cc1" />
-<img width="962" height="881" alt="image" src="https://github.com/user-attachments/assets/d7645143-c292-4859-9509-c971691dd638" />
-
-</p>
-<p>
-Fill in the Resource group name, select a Windows 10 image, fill in login info, review, and create.
+ Use the same credentials for admin as the previous repo.
 </p>
 <br />
 
 <p>
-<img width="963" height="887" alt="image" src="https://github.com/user-attachments/assets/db5b1ac0-db64-4d5c-9053-6e7eba8bf078" />
-
-<img width="1920" height="1077" alt="image" src="https://github.com/user-attachments/assets/dff3e417-f613-4546-ac21-1c6a3135d2b7" />
+<img width="1118" height="1031" alt="image" src="https://github.com/user-attachments/assets/2302640b-2ad2-43bc-9d11-ff4b1fcbb157" />
 
 
 </p>
 <p>
-Now locate the IP address and login with remote desktop(or whatever program for your operateing system.
+We do the same on the user side of OSticket, use this link: <a href="http://localhost/osTicket/">http://localhost/osTicket/</a>.
+
+ Use the same credentials for admin as the previous repo.
 </p>
 <br />
 
-<p>
-
-</p>
-<p>
-<img width="1758" height="988" alt="image" src="https://github.com/user-attachments/assets/77a3ca6f-da3f-4f1d-a099-613fbce522ef" />
-
-</p>
-<p>
-So we will check out the current ip address, visit this website to check: <a href="https://whatismyipaddress.com/">https://whatismyipaddress.com/</a>
-</p>
-<br />
-
-<p>
-<img width="1920" height="988" alt="image" src="https://github.com/user-attachments/assets/e91e2ccf-2778-4b22-9342-3c1bf72d6be0" />
-
-</p>
-<p>
-For the purpose of this lab we will be using proton vpn, and its free account, so follow this link and make an account: <a href="https://account.protonvpn.com/signup?plan=free&language=en">https://account.protonvpn.com/signup?plan=free&language=en</a>
-</p>
-<br />
-
-<p>
-<img width="1630" height="974" alt="image" src="https://github.com/user-attachments/assets/67f8dfe9-15bd-42d0-88ec-29c934ad22f0" />
-<img width="713" height="610" alt="image" src="https://github.com/user-attachments/assets/ec790f06-5b10-4868-9097-4dfad49f6a45" />
-
-</p>
-<p>
-Once its made download the destop appliction of the virtual machine and follow the installtion.
-</p>
-<br />
-
-<p>
-<img width="1302" height="882" alt="image" src="https://github.com/user-attachments/assets/c8a78444-89b2-4561-9793-680d6081929d" />
-
-</p>
-<p>
- Log in then start the vpn.
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
- <img width="1703" height="879" alt="image" src="https://github.com/user-attachments/assets/723228e7-07b9-4a94-a353-ecdd10f9f768" />
-
-</p>
-<p>
-Ff we check our ip address again it will be differnt and that was our goal. 
-</p>
-<br />

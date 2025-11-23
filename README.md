@@ -57,3 +57,30 @@ We do the same on the user side of OSticket, use this link: <a href="http://loca
 </p>
 <br />
 
+<p>
+<img width="1193" height="1033" alt="image" src="https://github.com/user-attachments/assets/6086e999-5846-42b8-b411-c7ab3d3ab453" />
+<img width="1191" height="1027" alt="image" src="https://github.com/user-attachments/assets/809a126d-ec8e-4c11-a05d-9024ea35ead4" />
+<img width="1185" height="1017" alt="image" src="https://github.com/user-attachments/assets/56a0e67e-c562-4bee-b293-e8c0437af907" />
+<img width="1191" height="1031" alt="image" src="https://github.com/user-attachments/assets/bb90efc5-a843-4e32-904b-4baa5bfd8cb6" />
+<img width="1193" height="1032" alt="image" src="https://github.com/user-attachments/assets/ca3ee2ad-2807-4a98-b10f-1c11a36e2440" />
+<img width="1192" height="1030" alt="image" src="https://github.com/user-attachments/assets/5df3528e-29f5-436c-b7a7-4274f5580d7d" />
+
+
+
+</p>
+<p>
+On the admin side, click Admin Panel> agents > roles. Then we will make a new role and call it Supreme Admin 
+</p>
+<br />
+
+<p>
+<img width="1192" height="1031" alt="image" src="https://github.com/user-attachments/assets/d1026933-52cd-4c3b-a998-90ec857c7a18" />
+<img width="1191" height="1032" alt="image" src="https://github.com/user-attachments/assets/a23491a3-30fe-41da-8663-3daa643892d4" />
+<img width="1194" height="1033" alt="image" src="https://github.com/user-attachments/assets/19ce30b8-26a9-4464-83dd-953094296e99" />
+
+
+</p>
+<p>
+Now go to departments, and we will be making a new department and naming it SysAdmins.  
+</p>
+<br />

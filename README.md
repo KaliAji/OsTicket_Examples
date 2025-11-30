@@ -53,7 +53,7 @@ So we will begin by logging in on the admin page using this link: <a href="http:
 <p>
 We do the same on the user side of OSticket, use this link: <a href="http://localhost/osTicket/">http://localhost/osTicket/</a>.
 
- Use the same credentials for admin as the previous repo.
+Use the same credentials for admin as the previous repo.
 </p>
 <br />
 
@@ -82,5 +82,30 @@ On the admin side, click Admin Panel> agents > roles. Then we will make a new ro
 </p>
 <p>
 Now go to departments, and we will be making a new department and naming it SysAdmins.  
+</p>
+<br />
+
+
+<p>
+<img width="1229" height="1034" alt="image" src="https://github.com/user-attachments/assets/fcdbf8f5-fd50-43d2-8f75-d0a17c089f3e" />
+<img width="1227" height="1032" alt="image" src="https://github.com/user-attachments/assets/4b0c06a8-5264-4645-8735-3544eb160cee" />
+<img width="1227" height="1034" alt="image" src="https://github.com/user-attachments/assets/8429b784-82c2-475b-8513-6f290ebf652c" />
+
+</p>
+<p>
+We will configure Teams, go to admin Panel>Agents>Teams, give it a team name and create  
+</p>
+<br />
+
+<p>
+<img width="1226" height="1034" alt="image" src="https://github.com/user-attachments/assets/d4c8c895-771f-4907-b077-a2af5a03317b" />
+<img width="1228" height="1032" alt="image" src="https://github.com/user-attachments/assets/20f723f7-4ea1-4048-94a7-99729bcdfd49" />
+<img width="1228" height="1034" alt="image" src="https://github.com/user-attachments/assets/5f86ce50-ed06-461e-8ca7-3a1ddf9820bc" />
+<img width="1227" height="1033" alt="image" src="https://github.com/user-attachments/assets/1ea5c03c-7bd9-44b5-a722-d1cca00eca5a" />
+
+
+</p>
+<p>
+We will now make agents. In the admin panel, click Agents and add a new one. Make a Jane and John, for example, and place them in different departments.
 </p>
 <br />

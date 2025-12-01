@@ -109,3 +109,42 @@ We will configure Teams, go to admin Panel>Agents>Teams, give it a team name and
 We will now make agents. In the admin panel, click Agents and add a new one. Make a Jane and John, for example, and place them in different departments.
 </p>
 <br />
+
+<p>
+<img width="1230" height="1031" alt="image" src="https://github.com/user-attachments/assets/fa73567f-cf2b-4369-bcca-9a41b4a04e8d" />
+<img width="1226" height="1024" alt="image" src="https://github.com/user-attachments/assets/48f7e0c9-fe60-448f-80ea-0566cd934d09" />
+<img width="1227" height="1030" alt="image" src="https://github.com/user-attachments/assets/20475fb5-6b6b-46ac-9c40-14d980f89f51" />
+<img width="1227" height="1024" alt="image" src="https://github.com/user-attachments/assets/6b243fa9-e8b0-445a-8264-0c0aeabdab10" />
+
+
+</p>
+<p>
+Now add users, click on the agent panel, users and then add new 
+</p>
+<br />
+
+<p>
+<img width="1228" height="1026" alt="image" src="https://github.com/user-attachments/assets/a81c1015-c2f6-42cc-be4f-3bf4f4dea522" />
+<img width="1229" height="1027" alt="image" src="https://github.com/user-attachments/assets/473390f2-4aa5-46c9-a977-850a22ee7387" />
+<img width="1227" height="1026" alt="image" src="https://github.com/user-attachments/assets/253c01c0-0f12-43ee-9a8c-0e2e2de28951" />
+<img width="1229" height="1028" alt="image" src="https://github.com/user-attachments/assets/c12c60d5-14eb-4341-946e-62ef5d4c3a20" />
+<img width="1224" height="1024" alt="image" src="https://github.com/user-attachments/assets/5349a14a-7064-488c-b747-898b8cffe967" />
+
+
+</p>
+<p>
+We will make some sample SLA's, go to admin panel, manage then SLA. We will make three with different settings.
+</p>
+<br />
+
+<p>
+<img width="1229" height="1029" alt="image" src="https://github.com/user-attachments/assets/de9240f2-f9c5-4ccf-ae74-9e5c8630d261" />
+<img width="1225" height="1025" alt="image" src="https://github.com/user-attachments/assets/d536f8f6-b8bc-4b80-a3ef-1b0ec688c25c" />
+
+
+</p>
+<p>
+and last we will make help topics. Admin panel then manage and help topics then create a new help topic.
+That concludes all the examples for this osTicket basics tutorial.
+</p>
+<br />
